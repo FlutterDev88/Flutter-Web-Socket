@@ -1,0 +1,8 @@
+[Desktop Entry]
+  Name=ftest
+  Comment=Flutter Test for Web Socket
+  Exec=ftest
+  Icon=${SNAP}/meta/gui/ftest.png
+  Terminal=false
+  Type=Application
+  Categories=Education;
